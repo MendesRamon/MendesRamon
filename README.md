@@ -14,7 +14,7 @@
 </div>
 
 <p></p>
-
+<p></p>
 
 🚀 Especializando em Análise de Dados | Controle e Gestão de Estoque | Estratégias Orientadas por Dados 📊
 
