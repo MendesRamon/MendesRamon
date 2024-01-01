@@ -13,6 +13,8 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" >
 </div>
 
+<p></p>
+
 
 🚀 Especializando em Análise de Dados | Controle e Gestão de Estoque | Estratégias Orientadas por Dados 📊
 
