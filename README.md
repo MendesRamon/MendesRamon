@@ -17,17 +17,9 @@
 <p></p>
 <p></p>
 
-🚀 Especializando em Análise de Dados | Controle e Gestão de Estoque | Estratégias Orientadas por Dados 📊
+🚀 Administrador |  Especializando em Análise de Dados | 📊
 
 Ao longo de mais de 3 anos, venho desbravando o universo da análise de dados na área de controle e gestão de estoque, contribuindo significativamente para a evolução de negócios. Meu foco é identificar padrões, combinando expertise na área com insights obtidos por meio de análises detalhadas, visando aprimorar a performance operacional e embasar decisões estratégicas fundamentadas em dados sólidos.
-
-🛠 Domínio Avançado do Excel | Automação Inteligente | Power Pivot | VBA
-
-Exploro ao máximo as capacidades do Excel para a criação de relatórios ad hoc e automação de tarefas repetitivas, utilizando linguagens como M, DAX, VBA e Power Pivot. Minha abordagem centrada em dados visa otimizar processos e liberar tempo para atividades mais estratégicas.
-
-📈 Gestor de Dashboards no Microstrategy e Excel | Estruturação de KPIs
-
-Como responsável pela criação e manutenção de dashboards no Excel e Microstrategy, fui instrumental na estruturação de KPIs, desempenhando um papel crucial na criação da nova área de controle de estoque. Minha atuação se destaca pela habilidade de traduzir dados complexos em informações acionáveis para suportar decisões fundamentadas.
 
 🌐 Visão Multissetorial | Formação Enriquecida por Diversas Áreas de Atuação
 
@@ -39,4 +31,6 @@ Acredito firmemente que a tecnologia é uma habilidade essencial para os profiss
 
 🔗 Vamos Conectar e Transformar Dados em Resultados!
 
-Estou sempre aberto a novas conexões e colaborações. Se você compartilha o entusiasmo por dados e estratégias orientadas por insights, estou pronto para construir pontes e impulsionar o sucesso empresarial. Vamos conectar e transformar dados em resultados tangíveis!
+Estou sempre aberto a novas conexões e colaborações. Se você compartilha o entusiasmo por dados e estratégias orientadas por insights, estou pronto para construir pontes e impulsionar o sucesso empresarial. Vamos conectar e transformar dados em resultados tangíveis! 
+
+Background nas seguintes tecnologias: 'MS Excel, VBA, MS Power BI, DAX, Power Query (linguagem M), SQL, Python (para análise de dados).'
