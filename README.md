@@ -17,6 +17,8 @@
 <p></p>
 <p></p>
 
+### Sobre
+
 🚀 Administrador |  Especializando em Análise de Dados | 📊
 
 Ao longo de mais de 3 anos, venho desbravando o universo da análise de dados na área de controle e gestão de estoque, contribuindo significativamente para a evolução de negócios. Meu foco é identificar padrões, combinando expertise na área com insights obtidos por meio de análises detalhadas, visando aprimorar a performance operacional e embasar decisões estratégicas fundamentadas em dados sólidos.
