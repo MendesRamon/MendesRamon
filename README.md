@@ -33,4 +33,4 @@ Acredito firmemente que a tecnologia é uma habilidade essencial para os profiss
 
 Estou sempre aberto a novas conexões e colaborações. Se você compartilha o entusiasmo por dados e estratégias orientadas por insights, estou pronto para construir pontes e impulsionar o sucesso empresarial. Vamos conectar e transformar dados em resultados tangíveis! 
 
-Background nas seguintes tecnologias: 'MS Excel, VBA, MS Power BI, DAX, Power Query (linguagem M), SQL, Python (para análise de dados).'
+**Background nas seguintes tecnologias:** *MS Excel, VBA, MS Power BI, DAX, Power Query (linguagem M), SQL, Python (para análise de dados).*
