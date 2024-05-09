@@ -23,3 +23,5 @@ Administrador | Especialista em Análise de Dados
  
 
 **Background nas seguintes tecnologias:** *MS Excel, VBA, MS Power BI, DAX, Power Query (linguagem M), SQL, Python.*
+
+Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
