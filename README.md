@@ -29,5 +29,5 @@ Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADc
 
 <br>
 <div align="left">
-<img src="https://github.com/MendesRamon/TCC_PUC_MINAS/assets/141190770/13c004d1-b0b7-44b8-8195-39811fa5a013" width="750px" />
+<img src="https://github.com/MendesRamon/TCC_PUC_MINAS/assets/141190770/13c004d1-b0b7-44b8-8195-39811fa5a013" width="500px" />
 <div/>
