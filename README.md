@@ -4,7 +4,7 @@
 
 ![MendesRamon Git Hub stats](https://github-readme-stats.vercel.app/api?username=MendesRamon&showicons=truetheme=dracula)
 
-## Tecnologias que eu uso no meu dia a dia no trabalho ou faculdade!
+### Tecnologias que eu uso no meu dia a dia no trabalho ou faculdade!
 
 <div stile="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
