@@ -25,6 +25,3 @@ Administrador | Especialista em Análise de Dados
 **Background nas seguintes tecnologias:** *MS Excel, VBA, MS Power BI, DAX, Power Query (linguagem M), SQL, Python.*
 
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
-
-
-![TEMA_PORTIFOLIO](https://github.com/MendesRamon/MendesRamon/assets/141190770/cda144c3-65e4-4839-8a17-e22730791070)
