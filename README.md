@@ -24,6 +24,8 @@ Administrador | Especialista em Análise de Dados
  
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
 
+![Afonso github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoFeliciano&locale=pt-br&theme=tokyonight)
+![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
 
 
 **Especialista em Análise de Dados e Business Intelligence** com mais de 12 anos de experiência no setor varejista. Domínio avançado de ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos. Experiência sólida em gestão de inventário, apuração de ICMS e análise de dados operacionais. Formado em Administração e Processos Gerenciais, tenho uma visão integrada de negócios e análise de dados. Estou sempre em busca de aprimorar minhas habilidades técnicas e a comunicação de insights de dados para otimização de processos e suporte à tomada de decisões.
