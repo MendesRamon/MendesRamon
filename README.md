@@ -1,12 +1,10 @@
 
 ### Olá! Eu sou o Ramon Mendes 👋
 
-
-![MendesRamon Git Hub stats](https://github-readme-stats.vercel.app/api?username=MendesRamon&showicons=truetheme=tokyonight)
+![MendesRamon github stats](https://github-readme-stats.vercel.app/api?username=MendesRamon&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
 
 ![MendesRamon github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendesRamon&locale=pt-br&theme=tokyonight)
 
-![MendesRamon github stats](https://github-readme-stats.vercel.app/api?username=MendesRamon&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
 
 
 ### Tecnologias que eu uso no meu dia a dia no trabalho ou faculdade!
