@@ -23,7 +23,7 @@
 
 ### Sobre
 
-Administrador | Especialista em Análise de Dados 
+Administrador | Analista de Dados 
  
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
 
