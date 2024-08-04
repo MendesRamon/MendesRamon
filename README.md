@@ -28,7 +28,7 @@ Administrador | Analista de Dados
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
 
 
-**Especialista em Análise de Dados e Business Intelligence** com mais de 12 anos de experiência no setor varejista. Domínio avançado de ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos. Experiência sólida em gestão de inventário, apuração de ICMS e análise de dados operacionais. Formado em Administração e Processos Gerenciais, tenho uma visão integrada de negócios e análise de dados. Estou sempre em busca de aprimorar minhas habilidades técnicas e a comunicação de insights de dados para otimização de processos e suporte à tomada de decisões.
+**Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos. Experiência sólida em gestão de inventário e análise de dados operacionais. Formado em Administração e Processos Gerenciais, tenho uma visão integrada de negócios e análise de dados. Estou sempre em busca de aprimorar minhas habilidades técnicas e a comunicação de insights de dados para otimização de processos e suporte à tomada de decisões.
 
 Estou sempre aberto a novas conexões e colaborações. Se você compartilha o entusiasmo por dados e estratégias orientadas por insights, estou pronto para construir pontes e impulsionar o sucesso empresarial. Vamos conectar e transformar dados em resultados tangíveis!
 
