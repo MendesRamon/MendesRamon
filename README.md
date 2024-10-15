@@ -1,7 +1,7 @@
 
-### Olá! Eu sou o Ramon Mendes 👋
+# Olá! Eu sou o Ramon Mendes 📊
 
-![MendesRamon github stats](https://github-readme-stats.vercel.app/api?username=MendesRamon&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+### Bem Vindo ao meu **Portifólio de Análise de Dados!**
 
 ![MendesRamon github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendesRamon&locale=pt-br&theme=tokyonight)
 
@@ -28,9 +28,32 @@ Administrador | Analista de Dados
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
 
 
-**Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos. Experiência sólida em gestão de inventário e análise de dados operacionais. Formado em Administração e Processos Gerenciais, tenho uma visão integrada de negócios e análise de dados. Estou sempre em busca de aprimorar minhas habilidades técnicas e a comunicação de insights de dados para otimização de processos e suporte à tomada de decisões.
+**Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos.
+___
 
-Estou sempre aberto a novas conexões e colaborações. Se você compartilha o entusiasmo por dados e estratégias orientadas por insights, estou pronto para construir pontes e impulsionar o sucesso empresarial. Vamos conectar e transformar dados em resultados tangíveis!
+### Análises
+___
+
+**Dashboard - Streamlit**
+
+[Dashboard em Streamlit](https://github.com/MendesRamon/Dash_Fifa_Python)
+
+O projeto dashboard de análise descritiva de times de futebol foi desenvolvido totalmente na linguagem Python, sendo possível rodar enviando o comando *streamlit run 1_🏠_home.py* no terminal.
+___
+
+**Análise de Preditiva de Notas de Alunos**
+
+[Previsão de Notas de Alunos](https://github.com/MendesRamon/PrevisaoNotasDeAlunos)
+
+Análise Preditiva de notas de alunos com base em diversos fatores acadêmicos.
+___
+**ETL com Python**
+
+[Consolidando Arquivos](https://github.com/MendesRamon/CONSOLIDANDO_ARQUIVOS_XLSX)
+
+Neste projeto, apresento como é feito *ETL* (Extract, Treat and Load) de arquivos Excel e inserindo em um banco de dados.
+
+
 
 
 
