@@ -28,7 +28,7 @@ Administrador | Analista de Dados
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/in%C3%ADcio?authuser=0)
 
 
-**Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos.
+**Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, Knime, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos.
 ___
 
 #        Análises
@@ -53,6 +53,9 @@ ___
 
 Neste projeto, apresento como é feito *ETL* (Extract, Treat and Load) de arquivos Excel e inserindo em um banco de dados.
 ___
+**Análise Exploratória**
 
+[Análise de Obesidade](https://github.com/MendesRamon/AnaliseObesidadeAdultos)
 
-
+Este documento apresenta uma análise descritiva de dados de obesidade entre adultos de diferentes países entre os anos 1975 a 2016.
+___
