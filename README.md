@@ -49,9 +49,9 @@ Análise Preditiva de notas de alunos com base em diversos fatores acadêmicos.
 ___
 **ETL com Python**
 
-[Consolidando Arquivos](https://github.com/MendesRamon/CONSOLIDANDO_ARQUIVOS_XLSX)
+[Consolidando Arquivos](https://github.com/MendesRamon/ETL_ARCHIVES_INTO_BD)
 
-Neste projeto, apresento como é feito *ETL* (Extract, Treat and Load) de arquivos Excel e inserindo em um banco de dados.
+Neste projeto, apresento como é feito *ETL* (Extração, Tratamento e carregamento) de arquivos Excel e inserindo em um banco de dados **SQL Server**.
 ___
 **Análise Exploratória**
 
