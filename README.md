@@ -67,13 +67,3 @@ ___
 
 Neste projeto, apresento como é feito *ETL* (Extração, Tratamento e carregamento) de arquivos Excel e inserindo em um banco de dados **SQL Server**.
 ___
-**Análise Exploratória**
-<div stile="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-  
-[Análise de Obesidade](https://github.com/MendesRamon/AnaliseObesidadeAdultos)
-
-Este documento apresenta uma análise descritiva de dados de obesidade entre adultos de diferentes países entre os anos 1975 a 2016.
-___
