@@ -34,6 +34,21 @@ ___
 #        Análises
 ___
 
+**Dashboard - Análise de Periodicidade de Acidentes no Trânsito**
+<div stile="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" >
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Knime-E0E5EC.svg?style=for-the-badge&logo=Knime&logoColor=#FDD800" >
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+</div>
+
+
+  
+[Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDFlYzgzMTgtMTI2Mi00OTE0LThhYTYtZTc3YmU4OTBhMzg1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&embedImagePlaceholder=true&pageName=ReportSection)
+
+
+O projeto foi desenvolvido para o trabalho de conclusão do curso de pós-graduação em gestão e análise estratégica de dados, onde foi analisado a de periodicidade de acidentes no trânsito no estado de Sãp Paulo.
+___
+
 **Dashboard - Streamlit**
 <div stile="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
