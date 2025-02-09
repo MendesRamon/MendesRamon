@@ -1,7 +1,7 @@
 
 # Olá! Eu sou o Ramon Mendes 📊
 
-### Bem Vindo ao meu **Portifólio de Análise de Dados!**
+### Bem-Vindo ao meu **Portifólio de Análise de Dados!**
 
 ![MendesRamon github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendesRamon&locale=pt-br&theme=tokyonight)
 
