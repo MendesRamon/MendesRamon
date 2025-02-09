@@ -46,10 +46,10 @@ ___
 [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDFlYzgzMTgtMTI2Mi00OTE0LThhYTYtZTc3YmU4OTBhMzg1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&embedImagePlaceholder=true&pageName=ReportSection)
 
 
-O projeto foi desenvolvido para o trabalho de conclusão do curso de pós-graduação em gestão e análise estratégica de dados, onde foi analisado a de periodicidade de acidentes no trânsito no estado de Sãp Paulo.
+O projeto foi desenvolvido para o trabalho de conclusão do curso de pós-graduação em gestão e análise estratégica de dados, onde foi analisado a de periodicidade de acidentes no trânsito no estado de São Paulo.
 ___
 
-**Dashboard - Streamlit**
+**WebApp - Streamlit**
 <div stile="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -57,18 +57,18 @@ ___
   
 [Dashboard em Streamlit](https://github.com/MendesRamon/Dash_Fifa_Python)
 
-O projeto dashboard de análise descritiva de times de futebol foi desenvolvido totalmente na linguagem Python, sendo possível rodar enviando o comando *streamlit run 1_🏠_home.py* no terminal.
+O projeto de web app trás um dashboard de análise descritiva de times de futebol que foi desenvolvido totalmente na linguagem Python.
 ___
 
-**Análise de Preditiva de Notas de Alunos**
+**Análise de Vendas com Machine Learning**
 <div stile="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
   
-[Previsão de Notas de Alunos](https://github.com/MendesRamon/PrevisaoNotasDeAlunos)
+[Comercio Eletronico - Linear Model](https://github.com/MendesRamon/lmComercioEletronico/tree/main)
 
-Análise Preditiva de notas de alunos com base em diversos fatores acadêmicos.
+Análise de venda de uma empresa de comércio eletrônico com o uso de **Regressão Linear** para descobrir o tipo de operação com maior retorno para o negócio.
 ___
 **ETL com Python e Sql Server**
 <div stile="display: inline_block"><br/>
@@ -78,7 +78,7 @@ ___
 </div>
 
   
-[Consolidando Arquivos](https://github.com/MendesRamon/ETL_ARCHIVES_INTO_BD)
+[ETL - Consolidando Arquivos](https://github.com/MendesRamon/ETL_ARCHIVES_INTO_BD)
 
 Neste projeto, apresento como é feito *ETL* (Extração, Tratamento e carregamento) de arquivos Excel e inserindo em um banco de dados **SQL Server**.
 ___
