@@ -43,7 +43,7 @@ ___
 
 
   
-[Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDFlYzgzMTgtMTI2Mi00OTE0LThhYTYtZTc3YmU4OTBhMzg1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&embedImagePlaceholder=true&pageName=ReportSection)
+[Dashboard no Power BI](https://github.com/MendesRamon/TCC_PUC_MINAS)
 
 
 O projeto foi desenvolvido para o trabalho de conclusão do curso de pós-graduação em gestão e análise estratégica de dados, onde foi analisado a de periodicidade de acidentes no trânsito no estado de São Paulo.
