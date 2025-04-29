@@ -47,6 +47,9 @@ ___
 [Dashboard no Power BI](https://github.com/MendesRamon/TCC_PUC_MINAS)
 
 
+[![My Credly Badge](https://images.credly.com/size/340x340/images/your_badge_image_id.png)](https://www.credly.com/badges/c0377d11-7031-4be4-bead-eef73ffc3c28/public_url)
+
+
 O projeto foi desenvolvido para o trabalho de conclusão do curso de pós-graduação em gestão e análise estratégica de dados, onde foi analisado a de periodicidade de acidentes no trânsito no estado de São Paulo.
 ___
 
