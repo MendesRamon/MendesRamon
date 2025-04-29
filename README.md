@@ -31,8 +31,6 @@ Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/projetos?
 **Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, Knime, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos.
 ___
 
-https://www.credly.com/users/ramon-santos.7c602d40
-
 #        Análises
 ___
 
