@@ -28,6 +28,9 @@ Administrador | Analista de Dados
 Veja meu [Portifólio de BI](https://sites.google.com/view/portifliobi/projetos?authuser=0)
 
 
+[![My Badge](https://images.credly.com/size/340x340/images/your_badge_image_id.png)](https://www.credly.com/badges/c0377d11-7031-4be4-bead-eef73ffc3c28/public_url)
+
+
 **Pós graduado em Gestão e Análise Estratégica de Dados** com mais de 12 anos de experiência no setor varejista. Domínio das ferramentas como Excel, Power BI, Knime, SQL, Power Query e VBA, focado na criação de dashboards, relatórios e automação de processos.
 ___
 
